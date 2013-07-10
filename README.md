@@ -29,6 +29,7 @@ Priklad: Paklize mame nad tabulkou Users hasOne na tabulku Profile, tak cizi kli
 
 Python
 http://www.codecademy.com/tracks/python
+
 http://www.learnpython.com/
 
 Ruby

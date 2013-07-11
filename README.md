@@ -33,6 +33,8 @@ http://www.codecademy.com/tracks/python
 
 http://www.learnpython.com/
 
+Referencni manual pro ruzne verze: http://docs.python.org/release/
+
 Ruby
 -------
 http://www.codecademy.com/tracks/ruby

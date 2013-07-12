@@ -35,6 +35,9 @@ http://www.learnpython.com/
 
 Referencni manual pro ruzne verze: http://docs.python.org/release/
 
+Porovnani perl x php x python x ruby: http://hyperpolyglot.org/scripting
+
+
 Ruby
 -------
 http://www.codecademy.com/tracks/ruby

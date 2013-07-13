@@ -17,6 +17,7 @@ http://www.fuzzy.cz/cs/clanky/git-kapitola-3-vyvoj-s-gitem/
 
 http://rypress.com/tutorials/git/rebasing.html
 
+https://www.youtube.com/watch?v=mYjZtU1-u9Y
 
 
 

@@ -8,6 +8,11 @@ PhpStorm
 --------
 Konfigurace sqlite: :https://bitbucket.org/xerial/sqlite-jdbc
 
+Angular.js
+----------
+http://www.egghead.io/
+
+https://github.com/jmcunningham/AngularJS-Learning
 
 jQuery
 --------

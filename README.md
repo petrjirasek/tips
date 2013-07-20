@@ -9,6 +9,9 @@ PhpStorm
 Konfigurace sqlite: :https://bitbucket.org/xerial/sqlite-jdbc
 
 
+jQuery
+--------
+jQuery File Upload - https://github.com/blueimp/jQuery-File-Upload
 
 
 Git zdroje

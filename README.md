@@ -19,6 +19,10 @@ jQuery
 jQuery File Upload - https://github.com/blueimp/jQuery-File-Upload
 
 
+LESS
+----
+http://lesselements.com/
+
 Git zdroje
 --------
 http://www.fuzzy.cz/cs/clanky/git-kapitola-3-vyvoj-s-gitem/

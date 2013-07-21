@@ -18,10 +18,15 @@ jQuery
 --------
 jQuery File Upload - https://github.com/blueimp/jQuery-File-Upload
 
-
 LESS
 ----
 http://lesselements.com/
+
+Symfony REST
+-------
+http://tecnofuenteabierta.blogspot.cz/2012/01/my-first-restful-web-service-with.html
+
+http://tutorial.screenfony.com/product/free/symfony-rest-api-1#.UewysY1HLYE
 
 Git zdroje
 --------

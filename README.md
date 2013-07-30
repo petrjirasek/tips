@@ -4,6 +4,10 @@ tips
 Odkazy na konfigurace, zdroje, abych je nemusel znova hledat.
 
 
+Problem s compassem na windows: https://github.com/kriswallsmith/assetic/issues/299
+
+Reseni je zakomentovat danou cast kodu a v compass.bat dat primou cestu na ruby.
+
 PhpStorm
 --------
 Konfigurace sqlite: :https://bitbucket.org/xerial/sqlite-jdbc

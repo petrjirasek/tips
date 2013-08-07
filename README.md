@@ -66,5 +66,9 @@ http://www.codecademy.com/tracks/ruby
 
 Dobra kniha udajne: http://www.amazon.com/Agile-Web-Development-Rails-4/dp/1937785564
 
+Zalozeni zivnosti
+------------------
+http://www.rzp.cz/elpod.html
 
+http://bahamo.cz/2010/08/09/student-a-zalozeni-zivnosti/
 

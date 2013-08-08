@@ -32,6 +32,8 @@ http://tecnofuenteabierta.blogspot.cz/2012/01/my-first-restful-web-service-with.
 
 http://tutorial.screenfony.com/product/free/symfony-rest-api-1#.UewysY1HLYE
 
+http://javaguirre.net/2012/10/11/returning-to-symfony/
+
 Git zdroje
 --------
 http://www.fuzzy.cz/cs/clanky/git-kapitola-3-vyvoj-s-gitem/

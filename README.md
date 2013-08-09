@@ -76,3 +76,9 @@ http://www.rzp.cz/elpod.html
 
 http://bahamo.cz/2010/08/09/student-a-zalozeni-zivnosti/
 
+
+Redis
+-------
+http://try.redis.io/
+
+http://redis.io/

@@ -34,6 +34,8 @@ http://tutorial.screenfony.com/product/free/symfony-rest-api-1#.UewysY1HLYE
 
 http://javaguirre.net/2012/10/11/returning-to-symfony/
 
+http://williamdurand.fr/2012/08/02/rest-apis-with-symfony2-the-right-way/
+
 Git zdroje
 --------
 http://www.fuzzy.cz/cs/clanky/git-kapitola-3-vyvoj-s-gitem/

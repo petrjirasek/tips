@@ -64,6 +64,10 @@ Referencni manual pro ruzne verze: http://docs.python.org/release/
 Porovnani perl x php x python x ruby: http://hyperpolyglot.org/scripting
 
 
+Python REST
+------- 
+http://blog.mourafiq.com/post/55034504632/end-to-end-web-app-with-django-rest-framework
+
 Ruby
 -------
 http://www.codecademy.com/tracks/ruby

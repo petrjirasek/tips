@@ -63,6 +63,8 @@ Referencni manual pro ruzne verze: http://docs.python.org/release/
 
 Porovnani perl x php x python x ruby: http://hyperpolyglot.org/scripting
 
+https://www.openshift.com/blogs/beginners-guide-to-writing-flask-apps-on-openshift
+
 
 Python REST
 ------- 

@@ -70,6 +70,10 @@ Python REST
 ------- 
 http://blog.mourafiq.com/post/55034504632/end-to-end-web-app-with-django-rest-framework
 
+http://mkelsey.com/2013/05/15/test-driven-development-of-a-flask-api/
+
+http://blog.miguelgrinberg.com/post/designing-a-restful-api-with-python-and-flask
+
 Ruby
 -------
 http://www.codecademy.com/tracks/ruby
